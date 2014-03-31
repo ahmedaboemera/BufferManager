@@ -8,3 +8,4 @@ public class DuplicateEntryException extends ChainException {
       super(e, name); 
     }
 }
+
